@@ -1,0 +1,35 @@
+main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: var(--bg-color);
+}
+
+.title{
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
+.firstBox{
+    padding-bottom: 10px;
+}
+
+.box{
+    height: 40px;
+    width: 460px;
+    
+}   
+
+.clickBox{
+    height: 40px;
+    
+    
+}
+
+
+
